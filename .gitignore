@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+*.pth
+*.pt
+*.ckpt
+
+# Environment/secrets
+.env
+
+# VS Code
+.vscode/
+
+# Generated files
+confusion_matrix.png
+
+# Python/Jupyter
+.ipynb_checkpoints/
+
+data/
